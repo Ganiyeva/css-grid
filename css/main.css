@@ -96,4 +96,5 @@ body {
   grid-area: 1/2/5/6;
   background: #fff;
   align-items: flex-start;
+  padding-top: 32px;
 }
